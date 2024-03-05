@@ -1,0 +1,5 @@
+# ignore file endings
+*.sln
+*.vcx
+
+# ignore directories
